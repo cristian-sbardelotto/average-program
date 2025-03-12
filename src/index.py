@@ -8,7 +8,7 @@ print("""
 3. Calcular mediana
 """)
 
-option = int(input('Escolha uma opção: '))
+option = int(input('Escolha uma opção (digite o número correspondente): '))
 
 match option:
     case 1:
